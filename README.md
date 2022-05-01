@@ -15,6 +15,7 @@ qry = "delete from employee"
 equeryQuery(qry)
 
 Very dainger
+Very dainger
 
 
 
