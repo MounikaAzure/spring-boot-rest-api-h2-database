@@ -24,6 +24,11 @@ public class StudentController {
 	public Student saveStudent(@RequestBody Student student) {
 		return studentService.saveStudent(student);
 	}
+
+	@PostMapping("/login")
+	public Student lgoinStudent(@RequestBody Student student) {
+		return studentService.saveStudent(student);
+	}
 	
 	@GetMapping("/student/{id}")
 	public Student getStudent(@PathVariable("id") Long id) {
