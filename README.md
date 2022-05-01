@@ -8,6 +8,14 @@ There are some other benifits too. We do not need to install H2 DB in our system
 
 The best way is to create a **Spring Boot** project using **Spring Stater Project** to add **Spring Web**, **Spring Data JPA** and **H2 Database** dependencies. A similar link can be followed if you are interested how to add STS in Eclipse IDE and add dependency using Spring Starter Project [GitHub](https://github.com/rafsan-jany/spring-boot-web). <br/>
 
+
+I am a developer, 
+
+qry = "delete from employee"
+equeryQuery(qry)
+
+
+
 The **Spring Web**, **Spring Data JPA** and **H2 Database** dependencies in **pom.xml** are <br/>
 
 ``````
