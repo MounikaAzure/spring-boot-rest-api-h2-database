@@ -14,6 +14,8 @@ I am a developer,
 qry = "delete from employee"
 equeryQuery(qry)
 
+Very dainger
+
 
 
 The **Spring Web**, **Spring Data JPA** and **H2 Database** dependencies in **pom.xml** are <br/>
